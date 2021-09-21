@@ -13,12 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Es war einmal: verschwundene Tweets von Kandidierenden"
+title: "Es war einmal: verschwundene Tweets von BTW-Kandidierenden"
 email: p.kessling@leibniz-hbi.de
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wahlen.leibniz-hbi.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PKessling
 github_username:  pekasen
+header_pages:
+  - index.md
+  - parliamentarians.md
+  - about.md
 
 # Build settings
 markdown: kramdown
