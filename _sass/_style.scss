@@ -1,0 +1,36 @@
+.dashboard-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.header {
+    img {
+        max-width: 250px;
+        padding: 25px
+    }
+}
+
+.sponsor-list {
+    list-style: none;
+    display: flex;
+
+    .sponsor-list-item {
+        min-width: 60px;
+        max-height: 100px;
+        padding: 30px;
+        img {
+            height: 100%;
+            object-fit: contain;
+        }
+    }
+}

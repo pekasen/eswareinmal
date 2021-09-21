@@ -1,0 +1,14 @@
+---
+
+---
+
+@charset "utf-8";
+@import "{{ site.theme }}";
+@import "style";
+
+main {
+    .wrapper {
+        max-width: none;
+        // height: 1450px;
+    }
+}
