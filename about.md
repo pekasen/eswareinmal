@@ -17,7 +17,7 @@ Möglich sind folgende Möglichkeiten. Ein Tweet kann entweder:
 
 ## Methode
 
-Wir fragen mehrmals pro Tag neueste Tweets von allen Kandidierenden der aktuell im Bundestag vertretenen Parteien ab. Die Accounts wurden händisch anhand von Daten des Bundeswahlleiters durch Mitarbeiter des Leibniz-Institut für Medienforschung unter Leitung von Dr. Jan-Hinrik Schmidt gesammelt und geprüft. Offensichtlich privat genutzte Accounts wurden nicht erfasst.
+Wir fragen mehrmals pro Tag neueste Tweets von allen Kandidierenden und Abgeordneten der aktuell im Bundestag vertretenen Parteien ab. Die Accounts wurden händisch anhand von Daten des Bundeswahlleiters durch Mitarbeiter des Leibniz-Institut für Medienforschung unter Leitung von Dr. Jan-Hinrik Schmidt gesammelt und geprüft. Offensichtlich privat genutzte Accounts wurden nicht erfasst.
 
 Einmal pro Tag prüfen wir die Verfügbarkeit der gesammelten Tweets auf Twitter. Dabei betrachten wir nur aggregierte Gesamtzahlen pro Partei und keine individuellen Accounts oder Tweets. Mit diesen Daten errechnen wir die gezeigten Zahlen, u.a. den laufenden 7-Tage Durchschnitt an verschwundenen Tweets.
 
