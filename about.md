@@ -23,7 +23,7 @@ Einmal pro Tag prüfen wir die Verfügbarkeit der gesammelten Tweets auf Twitter
 
 ## Limitationen
 
-Wir können derzeit und u.U. auch in Zukunft, aus andauernden ethischen und rechtlichen Abwägungen heraus, keine genauen Aussagen über die Gründe und Ursachen des Verschwindens der Tweets machen. Dies könnte in Teilen die Analyse einzelner Tweets gegen den Willen ihrer Urheber erfordern, was rechtlich sowie ethisch Probleme aufwirft, die wir noch nicht abschließend geklärt haben. Diesen Bedenken steht der Wahlwerbungs-Charakter und das öffentliche Interesse an den Twitter-Aktivitäten von Bundestagskandidierenden entgegen.
+Wir können derzeit und u.U. auch in Zukunft, aus [andauernden ethischen und rechtlichen Abwägungen heraus](https://leibniz-hbi.de/de/blog/es-war-einmal-ein-tweet-wie-transparent-soll-wahlkampf-sein), keine genauen Aussagen über die Gründe und Ursachen des Verschwindens der Tweets machen. Dies könnte in Teilen die Analyse einzelner Tweets gegen den Willen ihrer Urheber erfordern, was rechtlich sowie ethisch Probleme aufwirft, die wir noch nicht abschließend geklärt haben. Diesen Bedenken steht der Wahlwerbungs-Charakter und das öffentliche Interesse an den Twitter-Aktivitäten von Bundestagskandidierenden entgegen.
 
 ---
 
